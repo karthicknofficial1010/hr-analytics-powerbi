@@ -30,10 +30,32 @@ The **Presence Insights Dashboard** includes:
 ---
 
 ## 📁 Project Structure
-/HR-Analytics-Presence-Insights/
+(/HR-Analytics-Presence-Insights/
 │
 ├── HR_Presence_Insights.pbix # Power BI dashboard file
 ├── attendance_data.xlsx # Sample dataset
 ├── Screenshot.png # Dashboard image
-└── README.md # Project description
+└── README.md # Project description)
+
+
+---
+
+## 📌 Key Insights
+
+- Highest attendance observed on Tuesdays (95.5%)
+- Work-from-home peaked at 16.4% on June 17
+- Sick leaves increased mid-month (notable peak: 3.8%)
+- Monday and Friday showed comparatively lower attendance
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/hr-analytics-project.git
+
+2. Open the .pbix file in Power BI Desktop
+
+3. Explore visuals and apply date filters as needed
 
