@@ -30,4 +30,10 @@ The **Presence Insights Dashboard** includes:
 ---
 
 ## 📁 Project Structure
+/HR-Analytics-Presence-Insights/
+│
+├── HR_Presence_Insights.pbix # Power BI dashboard file
+├── attendance_data.xlsx # Sample dataset
+├── Screenshot.png # Dashboard image
+└── README.md # Project description
 
