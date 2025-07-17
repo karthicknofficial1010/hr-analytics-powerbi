@@ -17,7 +17,7 @@ The **Presence Insights Dashboard** includes:
 
 ## 📷 Screenshot
 
-![Dashboard Screenshot](./Screenshot.png) <!-- Replace with the actual image path if uploaded -->
+![Dashboard Screenshot](https://github.com/karthicknofficial1010/hr-analytics-powerbi/blob/main/HR%20ANALYTICS%20Screenshot.png?raw=true) <!-- Replace with the actual image path if uploaded -->
 
 ---
 
