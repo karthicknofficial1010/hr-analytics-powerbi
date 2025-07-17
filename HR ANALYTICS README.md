@@ -53,8 +53,7 @@ The **Presence Insights Dashboard** includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/karthicknofficial1010
-/hr-analytics-project.git
+   git clone https://github.com/karthicknofficial1010/hr-analytics-project.git
 
 2. Open the .pbix file in Power BI Desktop
 
