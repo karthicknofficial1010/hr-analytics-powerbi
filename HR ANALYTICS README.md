@@ -31,11 +31,11 @@ The **Presence Insights Dashboard** includes:
 
 ## 📁 Project Structure
 (/HR-Analytics-Presence-Insights/
-│
-├── HR_Presence_Insights.pbix # Power BI dashboard file
-├── attendance_data.xlsx # Sample dataset
-├── Screenshot.png # Dashboard image
-└── README.md # Project description)
+
+── HR_Presence_Insights.pbix # Power BI dashboard file
+── attendance_data.xlsx # Sample dataset
+── Screenshot.png # Dashboard image
+── README.md # Project description)
 
 
 ---
@@ -53,7 +53,8 @@ The **Presence Insights Dashboard** includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hr-analytics-project.git
+   git clone https://github.com/karthicknofficial1010
+/hr-analytics-project.git
 
 2. Open the .pbix file in Power BI Desktop
 
